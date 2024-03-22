@@ -1,4 +1,4 @@
-Este es un repositorio que contiene un proyecto para predecir la calidad de vinos tintos con base en distintas características.
+Este es un repositorio que contiene un proyecto para predecir la calidad de vinos "verdes" con base en distintas características.
 
 
 df: winequality-red.csv
