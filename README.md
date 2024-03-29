@@ -4,4 +4,7 @@ Este es un repositorio que contiene un proyecto para predecir la calidad de vino
 df: winequality-red.csv
 
 
-código en python: *to be uploaded*
+código en python: BRIA_Primera_entrega.ipynb
+
+
+Contiene la primera parte del proyecto, que incluye el abstract, la descripción de las variables del df, las preguntas e hipótesis de investigación, y la exploración de los datos.
